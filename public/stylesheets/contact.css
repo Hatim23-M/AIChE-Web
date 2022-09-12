@@ -17,6 +17,7 @@ body{
     /* background-color: #eee; */
     line-height: 1.4;
     color: var(--dark);
+	/* overflow-y: hidden; */
     /* justify-content: center; */
     /* align-items: center; */
 }
@@ -152,6 +153,7 @@ img{
 .contactForm {
     width: 40%;
     padding: 40px;
+/* padding-bottom: 5px; */ 
     background: #fff;
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
