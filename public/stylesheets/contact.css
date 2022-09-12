@@ -212,6 +212,13 @@ img{
     border-radius: 5%;
 }
 
+.contactForm .inputBox input[type="submit"]:hover {
+    background: #fff;
+    outline: solid 1px #065096;
+    color: #065096;
+    transition: 0.5s;
+}
+
 @media (max-width: 600px) {
     .contact {
         padding: 50px;
